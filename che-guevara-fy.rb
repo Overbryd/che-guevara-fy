@@ -26,4 +26,4 @@ __END__
 @@ index
 %form{:action => '/che-guevara-fy', :method => 'POST', :enctype => 'multipart/form-data'}
   %input{:type => 'file', :name => 'picture', :size => 'chars'}
-  %input{:type => 'submit', :value => 'Hasta la victoria siempè!'}
+  %input{:type => 'submit', :value => 'Hasta la victoria siempre!'}
