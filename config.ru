@@ -1,2 +1,2 @@
-require "che-guevara-fy"
+require "./che-guevara-fy"
 run Sinatra::Application
