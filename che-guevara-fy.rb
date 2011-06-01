@@ -22,6 +22,8 @@ __END__
     %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=utf-8"}
   %body
     = yield
+    %hr
+    %a{"href" => "https://gist.github.com/1003516"} Click here to read more about the Che Guevara Fy coding challenge
     :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-2373458-14']);
